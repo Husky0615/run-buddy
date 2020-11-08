@@ -12,3 +12,5 @@ https://Husky0615.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Landon Woodruff
+
+### ©️2019 Run Buddy, Inc
